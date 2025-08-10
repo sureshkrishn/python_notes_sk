@@ -1,1 +1,1 @@
-Mini Project AI&ML using Python
+Python Workouts
